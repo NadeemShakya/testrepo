@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
   },
   welcome: {
     fontSize: 10,
-    textAlign: 'center',
+    textAlign: 'left',
     margin: 10,
   },
   instructions: {
