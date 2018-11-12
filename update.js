@@ -1,1 +1,1 @@
-So things get updated here.
+Things got updated.
